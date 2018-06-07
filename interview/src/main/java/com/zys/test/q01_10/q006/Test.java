@@ -1,4 +1,4 @@
-package com.zys.test.q006;
+package com.zys.test.q01_10.q006;
 
 /*
 Q:short s1 = 1; s1 = s1 + 1;有什么错? short s1 = 1; s1 += 1;有什么错?

@@ -1,4 +1,4 @@
-package com.zys.test.q010;
+package com.zys.test.q01_10.q010;
 
 /*
 Q:使用final关键字修饰一个变量时，是引用不能变，还是引用的对象不能变？

@@ -1,6 +1,6 @@
-package com.zys.test.q001.pack;
+package com.zys.test.q01_10.q001.pack;
 
-import com.zys.test.q001.Test;
+import com.zys.test.q01_10.q001.Test;
 
 public class Test4 {
 

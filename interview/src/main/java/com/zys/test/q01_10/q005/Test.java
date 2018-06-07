@@ -1,4 +1,4 @@
-package com.zys.test.q005;
+package com.zys.test.q01_10.q005;
 
 /*
 Q:switch语句能否作用在byte上，能否作用在long上，能否作用在String上?

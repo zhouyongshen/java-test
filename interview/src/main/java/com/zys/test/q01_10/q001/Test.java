@@ -1,6 +1,6 @@
-package com.zys.test.q001;
+package com.zys.test.q01_10.q001;
 
-import com.zys.test.q001.pack.Test4;
+import com.zys.test.q01_10.q001.pack.Test4;
 
 /**
  * Q:一个".java"源文件中是否可以包括多个类（不是内部类）？有什么限制？

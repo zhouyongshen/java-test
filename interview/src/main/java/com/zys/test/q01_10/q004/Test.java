@@ -1,4 +1,4 @@
-package com.zys.test.q004;
+package com.zys.test.q01_10.q004;
 
 /*
 Q:在JAVA中如何跳出当前的多重嵌套循环？

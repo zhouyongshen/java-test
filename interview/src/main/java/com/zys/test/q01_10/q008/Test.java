@@ -1,4 +1,4 @@
-package com.zys.test.q008;
+package com.zys.test.q01_10.q008;
 
 /*
 Q:用最有效率的方法算出2乘以8等於几?
